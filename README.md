@@ -11,21 +11,26 @@ Ingeniero Electrónico titulado de la **Pontificia Universidad Católica de Valp
 - 🧠 **Machine Learning & Deep Learning**  
 - 👁️ **Visión Artificial (Computer Vision) & Cámaras Térmicas**  
 - 🌐 **Internet de las Cosas (IoT)**  
+- ☁️ **MQTT**  
 - ⚙️ **Optimización de hardware y Tuning de PCs**  
-- 💻 **Desarrollo de software (C#, HTML, CSS)**  
+- 💻 **Desarrollo de software (C, C#, HTML, CSS)**  
 - 🔄 **ROS1 & ROS2**  
 - 🔒 **Programación de memorias Flash & JTAG**  
-- 🚀 **Aceleración GPU (CUDA) & Modelos YOLO**
+- 🚀 **Aceleración GPU (CUDA) & Modelos YOLO**  
+- 🔌 **Embedded: Arduino & PlatformIO**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas destacadas:
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979C?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-2D2D2D?style=flat-square&logo=platformio&logoColor=white)
 ![ROS1](https://img.shields.io/badge/ROS-292E32?style=flat-square&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -34,6 +39,7 @@ Ingeniero Electrónico titulado de la **Pontificia Universidad Católica de Valp
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-FF9800?style=flat-square&logo=nvidia&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6600?style=flat-square&logo=ultralytics&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-4DC0B5?style=flat-square&logo=Eclipse%20Mosquitto&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
